@@ -26,4 +26,7 @@
         }
     },
     "category": "tool"
-}
+},
+"turn-4":{
+      "human"::<|Human|>:日本主要的文化是什么？<eho>\n",
+      "Inner Thoughts"<|Inner Thoughts|>:用户需要了解日本的文化和具体的文化发展
